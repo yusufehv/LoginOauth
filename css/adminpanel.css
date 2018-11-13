@@ -1,0 +1,24 @@
+.navbar {
+  height: 80px;
+  line-height: 80px; }
+  .navbar .nav-wrapper {
+    background-color: black !important; }
+    .navbar .nav-wrapper img {
+      max-width: 240px;
+      padding-left: 50px; }
+      .navbar .nav-wrapper img .sidenav img {
+        width: 300; }
+        .navbar .nav-wrapper img .sidenav img .sidenav-trigger {
+          height: 1000px;
+          width: 100px; }
+
+body {
+  background-color: tan; }
+  body body {
+    background-color: olive; }
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: orange; } }
+
+/*# sourceMappingURL=adminpanel.css.map */
